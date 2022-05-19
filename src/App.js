@@ -5,7 +5,6 @@ import HowToPlay from './components/User/howToPlayPage';
 import {
   Routes,
   Route,
-  BrowserRouter
 } from "react-router-dom";
 import { Box } from '@mui/system';
 import "./App.css";
