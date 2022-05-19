@@ -1,5 +1,4 @@
 import React from 'react';
-import Animation from '../../static/animation.gif';
 import { Box} from '@mui/system';
 import Typography from '@mui/material/Typography';
 export default function About() {
@@ -19,7 +18,7 @@ export default function About() {
             justifyContent: 'center',
             gap: '5px',
         }}>
-        <img src={Animation} height={500} width={500} />
+        <img src="/animation.gif" alt="gif ilustrativo" height={500} width={500} />
         <Typography theme={theme} sx={{textAlign:"left", fontWeight:"500", fontSize:"24px"}}>
             Oi, esse é o projeto 2 da Disciplina de Tecnologia Web.<br/>
             O qual foi criado por nós, <b>Gabriel Onishi</b> e <b>Lucas Fonseca</b>.<br/>

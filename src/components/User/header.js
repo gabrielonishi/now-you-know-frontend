@@ -1,6 +1,5 @@
 import * as React from 'react';
 import Box from '@mui/material/Box';
-import logo from '../../static/logo.png';
 import Menu from './menu';
 export default function Header() {
   return (
@@ -16,7 +15,7 @@ export default function Header() {
         justifyContent: 'center',
       }}
     >
-    <img src={logo} height={69} width={420} />
+    <img src="/logo.png" alt="logo" height={69} width={420} />
     <Menu />
     </Box>
   );
