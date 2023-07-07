@@ -1,4 +1,4 @@
-# Now You KnoW - O quanto você conhece seu artista favorito?
+# Now You Know - O quanto você conhece seu artista favorito?
 
 ## Descrição
 
