@@ -8,6 +8,10 @@ Frontend para a aplicação web Now You Know, um simples jogo de trivia com um s
 
 O frontend foi construído com React e o backend utiliza Django e uma API pública do Genius para funcionar. O backend está disponível em [https://github.com/gabrielonishi/now-you-know-backend](https://github.com/gabrielonishi/now-you-know-backend)
 
+## Equipe
+ - [Gabriel Onishi](https://github.com/gabrielonishi)
+ - [Lucas Fonseca](https://github.com/lucasfonseca19)
+
 ## Como rodar
 
 Para rodar o aplicativo localmente, rode no terminal
