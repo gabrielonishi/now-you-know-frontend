@@ -6,7 +6,7 @@
 
 Frontend para a aplicação web Now You Know, um simples jogo de trivia com um simples objetivo: testar o seu conhecimento a respeito de seu artista favorito! Escolha um artista e tente adivinhar as 5 músicas mais populares deles na plataforma Genius
 
-O frontend foi construído com React e o backend utiliza Django e uma API pública do Genius para funcionar. O backend está disponível em [https://github.com/gabrielonishi/nowyouknow_backend](https://github.com/gabrielonishi/now-you-know-backend)
+O frontend foi construído com React e o backend utiliza Django e uma API pública do Genius para funcionar. O backend está disponível em [https://github.com/gabrielonishi/now-you-know-backend](https://github.com/gabrielonishi/now-you-know-backend)
 
 ## Como rodar
 
